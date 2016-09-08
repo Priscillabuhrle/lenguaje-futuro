@@ -5,6 +5,7 @@
 body{
 	margin: 10px 0px;
 	width: 100%;
+	font-family: "Open-sans";
 }
 p{
 	font-family: Arial;
@@ -54,7 +55,10 @@ li{
 .texto{
 	margin-left: 100px;
 	font-size: 18px;
+	text-decoration:none;
+	color: black;
 	font-family: Arial;
+	font-weight: 600
 }
 /* pie de pagina*/
 .containerdos{
